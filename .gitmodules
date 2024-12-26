@@ -4,3 +4,6 @@
 [submodule "Packages/Cmdr"]
 	path = Packages/Cmdr
 	url = https://github.com/evaera/Cmdr
+[submodule "Packages/ProfileStore"]
+	path = Packages/ProfileStore
+	url = https://github.com/MadStudioRoblox/ProfileStore
