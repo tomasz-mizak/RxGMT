@@ -15,3 +15,11 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+## Submodules
+
+```bash
+git submodule status
+git submodule add [repo-url] Packages/[Package name]
+git commit -am "Add [Package name] as submodule"
+```
