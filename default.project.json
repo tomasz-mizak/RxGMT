@@ -13,6 +13,9 @@
       },
       "Promise": {
         "$path": "Packages/Promise"
+      },
+      "ProfileStore": {
+        "$path": "Packages/ProfileStore"
       }
 
     },
