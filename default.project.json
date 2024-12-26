@@ -10,12 +10,6 @@
 
       "Cmdr": {
         "$path": "Packages/Cmdr"
-      },
-      "Promise": {
-        "$path": "Packages/Promise"
-      },
-      "ProfileStore": {
-        "$path": "Packages/ProfileStore"
       }
 
     },
@@ -23,7 +17,15 @@
     "ServerScriptService": {
       "Server": {
         "$path": "src/server"
+      },
+
+      "ProfileStore": {
+        "$path": "Packages/ProfileStore"
+      },
+      "Promise": {
+        "$path": "Packages/Promise"
       }
+
     },
 
     "StarterPlayer": {
