@@ -6,7 +6,15 @@
     "ReplicatedStorage": {
       "Shared": {
         "$path": "src/shared"
+      },
+
+      "Cmdr": {
+        "$path": "Packages/Cmdr"
+      },
+      "Promise": {
+        "$path": "Packages/Promise"
       }
+
     },
 
     "ServerScriptService": {
