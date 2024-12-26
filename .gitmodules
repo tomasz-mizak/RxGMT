@@ -1,3 +1,6 @@
 [submodule "Packages/Promise"]
 	path = Packages/Promise
 	url = https://github.com/evaera/roblox-lua-promise
+[submodule "Packages/Cmdr"]
+	path = Packages/Cmdr
+	url = https://github.com/evaera/Cmdr
