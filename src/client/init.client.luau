@@ -1,8 +1,11 @@
-print("Hello world, from client!")
+
+-- [[ Dependencies ]] --
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cmdr = require(ReplicatedStorage:WaitForChild("CmdrClient"))
 
--- Configurable, and you can choose multiple keys
+-- [[ Configuration ]] --
+
 Cmdr:SetActivationKeys({ Enum.KeyCode.F2 })
--- See below for the full API.
+
+game.Players.LocalPlayer.CameraMaxZoomDistance = 20

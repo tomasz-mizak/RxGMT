@@ -7,25 +7,27 @@
       "Shared": {
         "$path": "src/shared"
       },
-
-      "Cmdr": {
-        "$path": "Packages/Cmdr"
+      "Libs": {
+        "$className": "Folder",
+        "Cmdr": {
+          "$path": "Packages/Cmdr"
+        }
       }
-
     },
 
     "ServerScriptService": {
       "Server": {
         "$path": "src/server"
       },
-
-      "ProfileStore": {
-        "$path": "Packages/ProfileStore"
-      },
-      "Promise": {
-        "$path": "Packages/Promise"
+      "Libs": {
+        "$className": "Folder",
+        "ProfileStore": {
+          "$path": "Packages/ProfileStore"
+        },
+        "Promise": {
+          "$path": "Packages/Promise"
+        }
       }
-
     },
 
     "StarterPlayer": {
