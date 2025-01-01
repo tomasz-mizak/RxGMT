@@ -22,4 +22,5 @@ For more help, check out [the Rojo documentation](https://rojo.space/docs).
 git submodule status
 git submodule add [repo-url] Packages/[Package name]
 git commit -am "Add [Package name] as submodule"
+git submodule update --init --recursive
 ```

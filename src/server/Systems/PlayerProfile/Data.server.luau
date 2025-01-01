@@ -49,7 +49,7 @@ local function PlayerAdded(player)
 end
 
 function PlayerRemoving(player)
-	local profile = Profiles[player]
+	local profile = Manager.Profiles[player]
 	if profile ~= nil then
 		profile:EndSession()
 	end
