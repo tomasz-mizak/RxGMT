@@ -1,0 +1,6 @@
+site_name: rbx-template
+theme:
+  name: material
+  palette:
+    primary: "blue"
+    accent: "light-blue"
