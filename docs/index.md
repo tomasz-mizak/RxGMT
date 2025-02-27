@@ -1,4 +1,5 @@
-# About
+# Welcome to RxGMT
+Welcome to Roblox Game Mode Template.
 
-## RBX-GM
+## Basically
 A versatile template designed for creating and managing gameplay modes.
